@@ -1,2 +1,2 @@
-test1:
-  property: hello!
+test:
+  property: Hello from cloud config server! 
