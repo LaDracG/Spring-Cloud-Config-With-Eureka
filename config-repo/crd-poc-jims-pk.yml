@@ -1,2 +1,2 @@
-test:
+test-config:
   property: Hello from cloud config server! 
